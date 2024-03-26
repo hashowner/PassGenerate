@@ -67,7 +67,7 @@ class App(CTk.CTk):
         self.password_length_slider.set(12)
         self.password_length_entry.insert(0, "12")
         
-        self.by_schizxd_label = tk.Label(self, text="By SCHIZXD", font=("Arial", 12, "bold"), fg="gray", bg=self.cget("bg"))
+        self.by_schizxd_label = tk.Label(self, text="By SCHIZXD", font=("Arial", 11, "bold"), fg="gray", bg=self.cget("bg"))
         self.by_schizxd_label.grid(row=3, column=0, pady=(0, 0))
         
     def change_appearance_mode_event(self, new_appearance_mode):
