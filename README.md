@@ -5,11 +5,11 @@
 Главное меню
 Light
 
-![python_XM3YNO47N0](https://github.com/SCHIZXXD/PassGenerate/assets/99614095/d6ac23e7-fffc-422a-9848-5c4cfa0e4524)
+![python_nMVoK9nFvM](https://github.com/SCHIZXXD/PassGenerate/assets/99614095/0c50852e-e62c-46b4-ac8b-bcb660f38d2d)
 
 Dark
 
-![python_TqJFXRgZrQ](https://github.com/SCHIZXXD/PassGenerate/assets/99614095/fbad1b8e-66ce-4779-a094-bc5ef13eb6a7)
+![python_eD0HDqBmnp](https://github.com/SCHIZXXD/PassGenerate/assets/99614095/4b0df28e-9e0d-43dd-95cd-0f0355eaa3bb)
 
 ## Установка и запуск
 *1)* Скачиваем ZIP архим и разархивируем в удобное место<br/>
