@@ -9,7 +9,7 @@ class App(CTk.CTk):
         super().__init__()
 
         self.geometry("460x370")
-        self.title("Password generator")
+        self.title("PassGenerate")
         self.resizable(False, False)
 
         self.iconbitmap("senko.ico")
